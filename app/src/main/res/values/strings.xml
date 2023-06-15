@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Футбол</string>
+    <string name="FIRST_TEAM" translatable="false">1 команда</string>
+    <string name="second_team" translatable="false">2 команда</string>
+    <string name="Button_clear" translatable="false">обнулить</string>
+    <string name="Button_team2" translatable="false">добавить очко</string>
+    <string name="Button_team1" translatable="false">добавить очко</string>
+</resources>
